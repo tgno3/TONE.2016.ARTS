@@ -1,5 +1,2 @@
 # TONE.2016.ARTS
-Reproduction code for Kaoru's book "Advances in DEA Theory and Applications with Examples in Forecasting Models"
-Chapter title: "Time Series Benchmarking Analysis for New Product Scheduling: Who are the competitors and how fast are they moving forward?"
-
-Bibliographic information will be updated when published.
+Lim, Dong-Joon, and Timothy R. Anderson. "Time series benchmarking analysis scheduling: for who new are product the competitors they moving forward? And how fast are." Advances in DEA Theory and Applications: With Extensions to Forecasting Models (2017): 443.
